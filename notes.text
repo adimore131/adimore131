@@ -1,0 +1,14 @@
+Git bash commands
+git init                       to initialize empty git folder
+git ls                           show list of files
+git ls -lart                    show list plus hidden files
+git add <file>            to add file to stage area or to be commited
+git add -A                  all all to stage area
+git config user.name     and git config user.email
+touch <file.type>         creates blank file type
+git checkout                 revert the changes made to file
+git checkout -f                       to all
+git log                       checks all the logs 
+git log -p -<no of logs you want to see> 
+git diff                           difference between working tree and staging area
+git diff --staged                compares staging area with last commit 
